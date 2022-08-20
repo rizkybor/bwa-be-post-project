@@ -2,4 +2,5 @@
 Feature Backend Project
 - PostgreSQL (DBMS: dbeaver / pgadmin4)
 - Cloudinary (Cloud Storage)
+- Postman
 - Heroku
